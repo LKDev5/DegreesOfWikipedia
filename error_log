@@ -1,8 +1,0 @@
-[26-Oct-2016 10:28:49 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting ',' or ';' in /home/codefish/public_html/dave/degreesofwikipedia/s.php on line 4
-[26-Oct-2016 10:28:56 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE), expecting ',' or ';' in /home/codefish/public_html/dave/degreesofwikipedia/s.php on line 4
-[26-Oct-2016 10:50:23 America/Denver] PHP Fatal error:  Class 'DB' not found in /home/codefish/public_html/dave/degreesofwikipedia/settings.inc.php on line 567
-[26-Oct-2016 10:50:42 America/Denver] PHP Strict Standards:  Non-static method DB::connect() should not be called statically in /home/codefish/public_html/dave/degreesofwikipedia/settings.inc.php on line 567
-[26-Oct-2016 10:50:42 America/Denver] PHP Strict Standards:  Non-static method DB::parseDSN() should not be called statically in /home/codefish/etc/PEAR/DB.php on line 520
-[26-Oct-2016 10:50:42 America/Denver] PHP Strict Standards:  Non-static method DB::isError() should not be called statically in /home/codefish/etc/PEAR/DB.php on line 557
-[26-Oct-2016 10:50:42 America/Denver] PHP Notice:  Undefined index: t in /home/codefish/public_html/dave/degreesofwikipedia/s.php on line 9
-[26-Oct-2016 10:50:42 America/Denver] PHP Notice:  Undefined index: dbg in /home/codefish/public_html/dave/degreesofwikipedia/settings.inc.php on line 583
