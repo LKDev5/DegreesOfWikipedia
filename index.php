@@ -1,0 +1,1 @@
+<?php	include('test_article_link.php');?>
