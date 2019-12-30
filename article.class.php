@@ -38,7 +38,8 @@ class Article
 			echo "XML:$xml<br/>";
 		}
 		
-		if(preg_match('/<text xml:space="preserve".+>/iS',$xml))
+	
+		if(preg_match('/xml:space="preserve"/iS',$xml))
 		{
 			if($GLOBALS['dbg']) echo "Article $this->alias exists!<br/>";
 			return true;
